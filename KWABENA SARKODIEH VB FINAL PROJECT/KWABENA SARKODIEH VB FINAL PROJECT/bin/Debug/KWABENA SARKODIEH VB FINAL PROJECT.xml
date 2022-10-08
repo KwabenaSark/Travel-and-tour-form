@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KWABENA SARKODIEH VB FINAL PROJECT
+</name>
+</assembly>
+<members>
+<member name="T:KWABENA_SARKODIEH_VB_FINAL_PROJECT.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:KWABENA_SARKODIEH_VB_FINAL_PROJECT.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:KWABENA_SARKODIEH_VB_FINAL_PROJECT.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:KWABENA_SARKODIEH_VB_FINAL_PROJECT.My.Resources.Resources._3fd0b82382168907bb0f177990c7772d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KWABENA_SARKODIEH_VB_FINAL_PROJECT.My.Resources.Resources.aaron_burden_WS89mmrCU8U_unsplash___Copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KWABENA_SARKODIEH_VB_FINAL_PROJECT.My.Resources.Resources.andrea_badino_TRNuVIhb5PE_unsplash___Copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KWABENA_SARKODIEH_VB_FINAL_PROJECT.My.Resources.Resources.wp4662596_euphoria_hbo_wallpapers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KWABENA_SARKODIEH_VB_FINAL_PROJECT.My.Resources.Resources.yosemite_5120x2880_5k_4k_wallpaper_8k_winter_snow_forest_osx_apple_3945">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

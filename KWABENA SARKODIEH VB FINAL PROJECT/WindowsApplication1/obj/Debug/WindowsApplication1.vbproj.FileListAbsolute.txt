@@ -1,0 +1,10 @@
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Junior\documents\visual studio 2015\Projects\KWABENA SARKODIEH VB FINAL PROJECT\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
